@@ -1,0 +1,5 @@
+Kyle Tam
+CS 301
+Project description:
+	I will work with Tristan Van Cise on his, Tower of Hannoi project. My main focus will be the embedded design of the project, I intend to use the I2C lines to turn on a 7-Segment display to match the state of the game. 
+Included is some example I2C code used to read and write to a slave (7-seg) from the master (Raspi).
